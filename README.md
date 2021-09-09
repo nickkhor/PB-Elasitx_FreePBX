@@ -11,7 +11,7 @@ Also share here for easier future reference :P
 
 ----------------------------------------------------------------------------
 
-Tested on Elastix 2.5, freePBX	2.11,  CentOS.
+Tested on Elastix 2.5, freePBX	2.11, PHP 5.1.6,  CentOS.
 
 Current designed for:
 1. MicroSIP Softphone
