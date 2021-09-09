@@ -1,4 +1,4 @@
-# PB-Elasitx_FreePBX
+# Phonebook for Elasitx/FreePBX
 Was facing some problem in workplace where having a lot of extension number and user have no idea where and how to get latest list.
 Multiple model of SIP Phone in place but can't sync from SIP server.
 Then i found out this https://ethertubes.com/grandstream-phone-book-creator-for-elastix/
