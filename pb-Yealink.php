@@ -73,7 +73,7 @@ if ($result->num_rows > 0) {
 		//Output for each column/directory map
 		for ($i=0; $i < count($col2disp); $i++) {
 			$xml_content .= "\t\t<{$col2disp[$i][1]}>";
-			$xml_content .= "{$row[$col2disp[$i][0]]}";
+			$xml_content .= trim($row[$col2disp[$i][0]]);
 			$xml_content .= "</{$col2disp[$i][1]}>\n";
 		}
 		$xml_content .= "\t</DirectoryEntry>\n";
